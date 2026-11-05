@@ -6,6 +6,10 @@ This program reads student names and scores from a text file, and displays the l
 2.Enter student names and scores.
 3.View the output.
 
+## Example Input 
+John 
+Sarah 
+
 ## Example Output
 Student grade:
 John 85
@@ -15,4 +19,4 @@ Sarah 92
 Sherry
 
 Updated README with lab instructions.
-
+Edit added by Emaan Taquie 
