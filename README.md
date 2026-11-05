@@ -15,6 +15,28 @@ Student grade:
 John 85
 Sarah 92
 
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        // TODO: Ask the user for name and three scores
+
+        // TODO: Calculate the average score
+
+        // TODO: Determine the letter grade based on the average
+
+        // TODO: Display the results
+
+        input.close();
+    }
+}
+```
+
+
+
 ## Author 
 Sherry
 
