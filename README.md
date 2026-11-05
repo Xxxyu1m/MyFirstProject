@@ -16,7 +16,7 @@ John 85
 Sarah 92
 
 ### Starter Code 
-Herre is the starter template you can use before adding the logic for calculations:
+Here is the starter template you can use before adding the logic for calculations:
 ```java
 import java.io.File;
 import java.io.FileNotFoundException;
