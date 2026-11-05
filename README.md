@@ -20,3 +20,6 @@ Sherry
 
 Updated README with lab instructions.
 Edit added by Emaan Taquie 
+
+## Collaboration Acknowledgement
+This project was reviewed and edited by Emman Taquie on GitHub.
