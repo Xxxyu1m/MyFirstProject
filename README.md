@@ -16,21 +16,23 @@ John 85
 Sarah 92
 
 ```java
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        // TODO A1: Create a File object for "grades.txt"
+        // TODO A2: Use try–catch to handle FileNotFoundException
 
-        // TODO: Ask the user for name and three scores
-
-        // TODO: Calculate the average score
-
-        // TODO: Determine the letter grade based on the average
-
-        // TODO: Display the results
-
-        input.close();
+        try {
+            // TODO B1: Create a Scanner to read the file
+            // TODO B2: Print "Student Grades:"
+            // TODO B3: Read and print each line from the file
+        }
+        catch (Exception e) {
+            // TODO C1: Print "File not found!" if grades.txt is missing
+        }
     }
 }
 ```
